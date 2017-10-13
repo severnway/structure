@@ -2,6 +2,10 @@
 
 Severn project structure.
 
+## Conduct
+
+Respect agency. Follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## Waiver
 
 Anybody caught using this project without our permission, will be mighty good friends of ourn, cause we don't give a dern. Read it. Hack it. Publish it, even without naming the source. We made it, that's all we wanted to do.
