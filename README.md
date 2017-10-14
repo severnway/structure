@@ -8,7 +8,7 @@ Respect agency. Follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Waiver
 
-Anybody caught using this project without our permission, will be mighty good friends of ourn, cause we don't give a dern. Read it. Hack it. Publish it, even without naming the source. We made it, that's all we wanted to do.
+Anybody caught using this work without our permission, will be mighty good friends of ourn, cause we don't give a dern. Study it. Hack it. Publish it, even without naming the source. We made it, that's all we wanted to do.
 
 NO rights reserved. A [free work](https://freedomdefined.org/Definition). [Copyfree](http://copyfree.org/). Doubly dedicated to the public domain with the [Unlicense](http://unlicense.org/) and [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
