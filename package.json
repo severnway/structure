@@ -2,10 +2,5 @@
   "devDependencies": {
     "husky": "beta",
     "sevenrules": "1"
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "sevenruleshusky"
-    }
   }
 }
